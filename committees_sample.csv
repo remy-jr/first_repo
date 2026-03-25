@@ -1,0 +1,3 @@
+committee_name,unit_id,member_user_ids,manager_user_ids,packet_id
+Departmental Review Committee,1234,1001;1002;1003,1001,
+External Advisory Panel,1234,2001;2002,,9988

@@ -1,0 +1,3 @@
+unit_id,packet_type_id,candidate_first_name,candidate_last_name,candidate_email,candidate_involvement,due_date,name
+1234,56,Jane,Smith,jsmith@university.edu,true,2026-08-01,Jane Smith – Promotion to Associate Professor
+1234,56,John,Doe,jdoe@university.edu,false,,
